@@ -39,7 +39,5 @@ def buildComparisons(alignedData):
     comparisons = comparisons[comparisons['total'] > 0]
 
     return comparisons
-
-
     
 

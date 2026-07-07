@@ -48,13 +48,3 @@ def computeUncertainty(trace, regions):
         'flipProbabilities': flipProbabilities,
         'hdiOverlaps': hdiOverlaps
     }
-    
-
-
-
-
-
-
-    
-    
-   
